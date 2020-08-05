@@ -30,6 +30,10 @@ h2 {
 }
 /* Write all remaining styles here */
 \
-.a-style {
+.a-style img {
 	border: 5px solid #c7cac9;
+}
+.a-style:hover{
+	border-color: #697672;
+ 
 }
