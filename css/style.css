@@ -58,3 +58,6 @@ p a {
 	font-size: 12px;
 	float: right;
 }
+div {
+	display: block;
+}
