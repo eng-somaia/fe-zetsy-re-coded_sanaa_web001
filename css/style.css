@@ -50,7 +50,7 @@ p a {
 .a-style img {
 	border: 5px solid #c7cac9;
 }
- .a-style a:hover {
+ .a-style img:hover {
 	border: 5px solid #697672;
 }
 .copyright{
