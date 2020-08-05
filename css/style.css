@@ -34,7 +34,7 @@ h2 {
 .a-style img {
 	border: 5px solid #c7cac9;
 }
-a.a-style:hover {
+img.a-style:hover {
 	border: 5px solid #697672;
 }
 .copyright{
