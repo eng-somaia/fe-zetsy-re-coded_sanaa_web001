@@ -8,6 +8,7 @@ body {
 	background: #f3ebe9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
+	box-sizing: border-box;
 }
 
 .wrapper {
