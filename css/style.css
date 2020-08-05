@@ -34,7 +34,7 @@ h2 {
 .a-style img {
 	border: 5px solid #c7cac9;
 }
-img.a-style:hover{
+a.a-style:hover{
 	border-color: #697672;
 
 }
