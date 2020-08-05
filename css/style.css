@@ -27,6 +27,8 @@ h2 {
 	color: #6d7c7c;
 }
 #main-img{
+	margin: 0 auto;
+	position: center;
 	border: 5px solid #9ba9a4;
 }
 /* Write all remaining styles here */
@@ -40,5 +42,4 @@ img.a-style:hover {
 .copyright{
 	font-size: 12px;
 	float: right;
-	margin-bottom:  40px;
 }
