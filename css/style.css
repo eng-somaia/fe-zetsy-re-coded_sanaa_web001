@@ -27,6 +27,7 @@ h1 {
 	font-size: 60px;
   font-weight:lighter;
 	color: #99a9a3;
+	line-height: 3;
 	border-bottom: 1px solid #c7cac9;
 }
 h2 {
