@@ -1,7 +1,9 @@
 /*////////////// Fonts //////////////*/
 
-/* link the web font used for the level 1 heading here */
-
+@font-face {
+   font-family: myFirstFont;
+   src: url(./fonts/Baskerville.ttc);
+}
 /*////////// Global Styles //////////*/
 
 body {
@@ -21,6 +23,7 @@ body {
 	padding: 0 45px 20px;
 }
 h1 {
+	font-family: myFirstFont;
 	color: #99a9a3;
 	line-height: 3;
 	border-bottom: 1px solid #c7cac9;
